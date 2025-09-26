@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Flores;Carlos;;;
+FN:Carlos Flores
+ORG:Turismo Raitrai
+TEL;TYPE=CELL,VOICE:+56977792702
+EMAIL;TYPE=INTERNET,PREF:cflores@raitrai.cl
+ADR;TYPE=WORK:;;La Concepción 141, Oficina 301;Providencia;Santiago;;Chile
+URL:https://www.raitrai.cl
+END:VCARD
