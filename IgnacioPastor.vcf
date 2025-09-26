@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Pastor;Ignacio;;;
+FN:Ignacio Pastor
+ORG:Ignovación
+TEL;TYPE=CELL,VOICE:+56952270713
+EMAIL;TYPE=INTERNET,PREF:contacto@ignovacion.com
+URL:https://www.ignovacion.com
+END:VCARD
