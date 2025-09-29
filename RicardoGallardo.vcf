@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gallardo;Ricardo;;;
+FN:Ricardo Gallardo
+ORG:Rai Trai
+TEL;TYPE=CELL,VOICE:+56993499428
+EMAIL;TYPE=INTERNET,PREF:operaciones@raitrai.cl
+URL:https://www.raitrai.cl
+END:VCARD
