@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hernández Soto;Carolina;;;
+FN:Carolina Hernández Soto
+ORG:Rai Trai
+TITLE:Jefa de Ventas
+TEL;TYPE=CELL,VOICE:+56983415956
+TEL;TYPE=WORK,VOICE:+56222363232
+EMAIL;TYPE=INTERNET,PREF:chernandez@raitrai.cl
+ADR;TYPE=WORK:;;La Concepción N°141, Oficina 305;Providencia;Santiago;;Chile
+URL:https://www.raitrai.cl
+END:VCARD
