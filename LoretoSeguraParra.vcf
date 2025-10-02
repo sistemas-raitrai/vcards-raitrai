@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Segura Parra;Loreto;;;
+FN:Loreto Segura Parra
+ORG:Hotel y Cabañas Bordeandino
+TITLE:Administración
+TEL;TYPE=CELL,VOICE:+56986567123
+EMAIL;TYPE=INTERNET,PREF:administracion@hotelbordeandino.cl
+ADR;TYPE=WORK:;;Valle Las Trancas - Termas de Chillán;;;;Chile
+END:VCARD
