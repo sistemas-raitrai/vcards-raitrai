@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Opitz L.;Carmen Gloria;;;
+FN:Carmen Gloria Opitz L.
+ORG:Hotel Borde Lago
+TITLE:Gerenta de Administración
+TEL;TYPE=WORK,VOICE:+56652438997
+TEL;TYPE=CELL,VOICE:+56950117248
+EMAIL;TYPE=INTERNET,PREF:carmengloria@bordelago.com
+ADR;TYPE=WORK:;;Ruta 225, Km 4.5;Puerto Varas;;;Chile
+URL:https://www.bordelago.com
+END:VCARD
