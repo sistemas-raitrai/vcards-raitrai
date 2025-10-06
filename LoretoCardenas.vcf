@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cárdenas;Loreto;;;
+FN:Loreto Cárdenas
+ORG:Best Western Patagonia
+TITLE:Operations Manager
+TEL;TYPE=CELL,VOICE:+56953712366
+TEL;TYPE=WORK,VOICE:+56612253275
+TEL;TYPE=VOICE:+1800201747
+EMAIL;TYPE=INTERNET,PREF:lcardenas@bwpatagonia.com
+ADR;TYPE=WORK:;;Huerto 282 Lote 11 Ruta 9;Puerto Natales;;Chile
+URL:https://www.bestwesternpatagonia.com
+URL:https://www.bestwestern.com
+END:VCARD
