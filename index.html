@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Borde Hoteles | Contactos</title>
+
+  <!-- Fuente moderna -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    body {
+      background: linear-gradient(180deg, #000000 0%, #111111 100%);
+      color: white;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 700px;
+      text-align: center;
+      padding-bottom: 50px;
+    }
+
+    .logo {
+      width: 100%;
+      max-width: 420px;
+      margin: 20px auto 10px;
+      display: block;
+    }
+
+    .subtitle {
+      color: #d0d0d0;
+      font-size: 1rem;
+      margin-bottom: 35px;
+      letter-spacing: 1px;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 18px;
+      padding: 22px;
+      margin-bottom: 18px;
+      backdrop-filter: blur(8px);
+      transition: transform 0.2s ease, border-color 0.2s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(255,255,255,0.35);
+    }
+
+    .name {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+
+    .role {
+      font-size: 0.95rem;
+      color: #d3d3d3;
+      margin-bottom: 14px;
+    }
+
+    .btn {
+      display: inline-block;
+      width: 100%;
+      padding: 14px 18px;
+      background: white;
+      color: black;
+      border: none;
+      border-radius: 12px;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.2s ease;
+    }
+
+    .btn:hover {
+      background: #d9d9d9;
+    }
+
+    .footer {
+      margin-top: 30px;
+      color: #8f8f8f;
+      font-size: 0.8rem;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 600px) {
+      .name {
+        font-size: 1.1rem;
+      }
+
+      .role {
+        font-size: 0.9rem;
+      }
+
+      .btn {
+        font-size: 0.95rem;
+      }
+
+      .subtitle {
+        font-size: 0.9rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- LOGO -->
+    <img src="logo borde hoteles.png" alt="Borde Hoteles" class="logo">
+
+    <p class="subtitle">GUARDA NUESTROS CONTACTOS</p>
+
+    <!-- GERENTE GENERAL -->
+    <div class="card">
+      <div class="name">Carlos Flores</div>
+      <div class="role">Gerente General</div>
+      <a class="btn" href="CarlosFlores-full.vcf">Guardar contacto</a>
+    </div>
+
+    <!-- HOTEL BORDE LAGO -->
+    <div class="card">
+      <div class="name">Carmen Gloria Opitz</div>
+      <div class="role">Hotel Borde Lago</div>
+      <a class="btn" href="CarmenGloriaOpitz.vcf">Guardar contacto</a>
+    </div>
+
+    <!-- HOTEL BORDE ANDINO -->
+    <div class="card">
+      <div class="name">Loreto Segura</div>
+      <div class="role">Hotel Borde Andino</div>
+      <a class="btn" href="LoretoSeguraParra.vcf">Guardar contacto</a>
+    </div>
+
+    <!-- BEST WESTERN PATAGONIA -->
+    <div class="card">
+      <div class="name">Loreto Cárdenas</div>
+      <div class="role">Best Western Patagonia</div>
+      <a class="btn" href="LoretoCardenas.vcf">Guardar contacto</a>
+    </div>
+
+    <div class="footer">
+      Borde Hoteles<br>
+      Escanea, guarda y conecta.
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
